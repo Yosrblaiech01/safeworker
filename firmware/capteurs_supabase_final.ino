@@ -6,8 +6,8 @@
 #include <HTTPClient.h>
 
 // ===================== CONFIGURATION À REMPLIR =====================
-const char* WIFI_SSID     = "VOTRE_WIFI";
-const char* WIFI_PASS     = "VOTRE_MOT_DE_PASSE";
+const char* WIFI_SSID     = "Galaxy S23 Ultra 753C";
+const char* WIFI_PASS     = "11111111";
 
 // Supabase : Project Settings > API (ou bouton "Connect")
 const char* SUPABASE_URL  = "https://zbgugxqjguxgpekvkkos.supabase.co";
